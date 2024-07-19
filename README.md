@@ -19,10 +19,21 @@ Workldwide Stock market Indices Dataset - https://www.kaggle.com/datasets/mukhaz
 Key Research Questions:
 1. What is the structure of the covid dataset and what patterns can we identify?
 2. What is the structure of the indices dataset and what patterns can we identify?
-3. What is the relationship between Covid cases/deaths in a country and the stock market performance?
+3. What are the countries in the dataset with the most covid cases?
+3. What is the relationship between Covid cases in the listed countries and the stock market performance for a major index in that country?
 
-Teaam:
+Teaam: 
 Danish Mohammad
 Ria Datla
 Joshua Perez
 William Hodges
+
+#Process
+
+1. Data Collection
+    Obtained data for the same time period for Covid-19 and stock indices
+2. Data Preparation
+    Created a dataframe for the necessary fields in  the Covid and Indices Datasets
+3. Data Analysis
+4. Visualization
+5. Conclusion
